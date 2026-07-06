@@ -19,15 +19,11 @@ public:
         }
         while(tempB != nullptr){
             node[tempB]++;
-            tempB = tempB -> next;
-            
-            for(auto x : node){
-                if(x.second>1){
-                     return x.first;
-            }
-        }
 
-        
+             if(node[tempB]>1){
+                     return tempB;
+            }
+            tempB = tempB -> next;    
         }
         return NULL;
     }
