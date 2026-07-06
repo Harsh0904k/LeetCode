@@ -7,13 +7,13 @@ public:
         }
         for(auto x: duplicate){
             if(x.second.size()>1){
-                for(int i=0; i<x.second.size();i++){
-                    for(int j = i+1; j<x.second.size();j++){
-                        if(abs(x.second[i]-x.second[j])<=k){
+                for(int i=1; i<x.second.size();i++){
+
+                        if(abs(x.second[i]-x.second[i-1])<=k){
                             return true;
                         }
 
-                    }
+                    
                 }
             }
         }
