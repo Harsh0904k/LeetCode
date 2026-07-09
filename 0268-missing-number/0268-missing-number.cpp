@@ -1,22 +1,20 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-    
-        int x=0;
-        while(x <= nums.size()){
-          if(find(nums.begin(), nums.end(),x) != nums.end())
-          {
-            x++;
-            continue;
-            }
-            else{
-
-                return x;
-            }
-            
-            x++;
-    
+        unordered_map <int,int> val;
+        for(int i = 0; i<=nums.size(); i++){
+            val[i]++;
         }
-        return 0;
+        for(int i = 0; i<nums.size(); i++){
+            val[nums[i]]++;
+            
+        }
+        for(auto x : val){
+            if(x.second != 2){
+                cout<<x.first<<" -> "<<x.second<<endl;
+                return x.first;  
+              }
+        }
+        return -1;
     }
 };
