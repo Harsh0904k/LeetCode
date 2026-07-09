@@ -12,18 +12,15 @@ public:
             }
         }
         for(int y : nums2){
-            if(intersection.count(y)<2 && intersection.count(y)==1 ){
-                intersection[y]++;
+            if( intersection.count(y)==1 ){  // will check if key is present
+                 value.push_back(y); 
+                 intersection.erase(y);  // will delete whole (key and value) so it dont get added again
             }
             else{
                 continue;
             }
         }
-        for(auto x : intersection){
-            if(x.second>1){
-                value.push_back(x.first);
-            }
-        }
+       
         
        return value; 
     }
