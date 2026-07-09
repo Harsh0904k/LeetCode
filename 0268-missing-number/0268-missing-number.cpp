@@ -10,8 +10,7 @@ public:
             
         }
         for(auto x : val){
-            if(x.second != 2){
-                cout<<x.first<<" -> "<<x.second<<endl;
+            if(x.second == 1){
                 return x.first;  
               }
         }
