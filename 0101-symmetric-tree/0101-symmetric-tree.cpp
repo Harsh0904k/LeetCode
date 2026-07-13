@@ -16,23 +16,18 @@ public:
             return true;
         }
         if(left==NULL || right==NULL){
-             cout<<"ch2";
             return false;
         }
         if(left->val != right->val){
-             cout<<"ch3 "<<left->val<<" "<<right->val;
             return false;
         }
 
         return check(left->left, right->right) && check(left->right, right->left);
     };
     bool isSymmetric(TreeNode* root) {
-        if(root->left && root->right && root->left->val != root->right->val){
-            cout<<"ch1";
-            return false;
-        }
-        TreeNode* left = root->left;
-        TreeNode* right = root->right;
-        return check(left, right);
+       if (root == NULL)
+            return true;
+
+        return check(root->left, root->right);
     }
 };
