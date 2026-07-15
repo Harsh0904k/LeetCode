@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh0904k/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
