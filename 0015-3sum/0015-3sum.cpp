@@ -1,34 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int fixed = 0;
-        vector<vector<int>> final;
+
         sort(nums.begin(), nums.end());
 
-        for(fixed = 0; fixed<nums.size()-2; fixed++){
-            if (fixed > 0 && nums[fixed] == nums[fixed - 1]) 
+        vector<vector<int>> ans;
+        int n = nums.size();
+
+        for (int i = 0; i < n - 2; i++) {
+
+            if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-        int left = fixed + 1;
-        int right = nums.size() - 1;
+            int left = i + 1;
+            int right = n - 1;
 
-          cout<<"for loop"<<endl;
+            while (left < right) {
 
-            while(left<right){
-            
-                  
-                if( nums[fixed] + nums[left] + nums[right] < 0){
-                    left++;
-                    
-                }
+                int sum = nums[i] + nums[left] + nums[right];
 
-                else if(nums[fixed] + nums[left] + nums[right] > 0){
-                    right--;
-                
-                }
+                if (sum == 0) {
 
-                else{
-                    final.push_back({nums[fixed], nums[left], nums[right]});
+                    ans.push_back({nums[i], nums[left], nums[right]});
+
                     while (left < right && nums[left] == nums[left + 1])
                         left++;
 
@@ -37,17 +31,16 @@ public:
 
                     left++;
                     right--;
-                    cout<<"ran 1"<<endl;   
                 }
-
-
-
+                else if (sum < 0) {
+                    left++;
+                }
+                else {
+                    right--;
+                }
             }
         }
-        
-    
-        return final;
 
-        
+        return ans;
     }
 };
