@@ -27,6 +27,9 @@ public:
          return min(left, right)+1;
     }
     int minDepth(TreeNode* root) {
+        if (root == nullptr){
+            return 0;
+        }
         return minD(root);
     }
 };
