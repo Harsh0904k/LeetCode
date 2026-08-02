@@ -27,10 +27,8 @@ public:
         while(k!=0){
         while(temp->next != nullptr && temp -> next ->next != nullptr){
                 temp = temp->next;
-                cout<<"ran0";
         }
         if(temp->next != 0){
-            cout<<"ran1";
             temp -> next -> next = head;
             head = temp->next;
             temp->next = nullptr;
