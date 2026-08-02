@@ -10,9 +10,8 @@ public:
         while(n>=0 && s[n]!=' '){
             n--;
         }
-        int end = n;
 
     
-    return start-end;
+    return start-n;
     }
 };
