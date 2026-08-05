@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Harsh0904k/LeetCode/tree/master/0036-valid-sudoku) |
+| [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harsh0904k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh0904k/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Harsh0904k/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harsh0904k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh0904k/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
