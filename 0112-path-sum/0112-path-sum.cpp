@@ -11,31 +11,28 @@
  */
 class Solution {
 public:
-    void check(TreeNode* root,vector<int>path, int target, bool& ans){
+    void check(TreeNode* root,vector<int>& path, int target, bool& ans, int sum){
         if(root==nullptr){
             return;
         }
-        int sum = 0;
-        path.push_back(root->val);
+        sum = sum+root->val;
         
         if(root->left == NULL && root->right == NULL){
-            for(int x:path){
-            sum = sum+x;
-            }
             if(sum==target){
                 ans = true;
             }
         }
-       check(root->left,path,target,ans);
-       check(root->right,path,target,ans);
-        path.pop_back();
+       check(root->left,path,target,ans,sum);
+       check(root->right,path,target,ans,sum);
+        sum = sum-root->val;
 
         
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         vector<int>path;
         bool ans = false;
-        check(root,path,targetSum,ans);
+        int sum = 0;
+        check(root,path,targetSum,ans,sum);
         return ans;
     }
 };
