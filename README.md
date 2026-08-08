@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh0904k/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Harsh0904k/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Harsh0904k/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [3731-find-missing-elements](https://github.com/Harsh0904k/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -208,10 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harsh0904k/LeetCode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/Harsh0904k/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
+| [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
 ## Quicksort
 |  |
 | ------- |
