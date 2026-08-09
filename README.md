@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Harsh0904k/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Harsh0904k/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 | [3731-find-missing-elements](https://github.com/Harsh0904k/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Harsh0904k/LeetCode/tree/master/0455-assign-cookies) |
+| [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -219,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harsh0904k/LeetCode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/Harsh0904k/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 ## Quicksort
 |  |
 | ------- |
