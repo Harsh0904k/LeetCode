@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harsh0904k/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harsh0904k/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh0904k/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Harsh0904k/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harsh0904k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Harsh0904k/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0867-transpose-matrix) |
