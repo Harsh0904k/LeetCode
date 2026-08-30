@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Harsh0904k/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh0904k/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh0904k/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Harsh0904k/LeetCode/tree/master/0058-length-of-last-word) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh0904k/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -261,9 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh0904k/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Harsh0904k/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Harsh0904k/LeetCode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
