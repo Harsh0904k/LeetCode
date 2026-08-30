@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void check(int open, int close, string strng, int n, vector<string>& ans){
+    void check(int open, int close, string& strng, int n, vector<string>& ans){
         if(strng.length()==2*n){
             ans.push_back(strng);
         }
@@ -20,7 +20,8 @@ public:
 
     vector<string> generateParenthesis(int n) {
         vector <string> ans;
-        check(0,0,"",n,ans);
+        string temp;
+        check(0,0,temp,n,ans);
         return ans;
     }
 };
