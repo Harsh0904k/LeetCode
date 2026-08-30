@@ -5,11 +5,15 @@ public:
             ans.push_back(strng);
         }
         if(open<n){
-            check(open+1, close, strng+"(", n, ans);
+            strng.push_back('(');
+            check(open+1, close, strng, n, ans);
+            strng.pop_back();
         }
 
         if(close<open){
-            check(open, close+1, strng+")", n, ans);
+            strng.push_back(')');
+            check(open, close+1, strng, n, ans);
+            strng.pop_back();
         }
     }
 
