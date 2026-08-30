@@ -3,6 +3,7 @@ public:
     void check(int open, int close, string& strng, int n, vector<string>& ans){
         if(strng.length()==2*n){
             ans.push_back(strng);
+            return;
         }
         if(open<n){
             strng.push_back('(');
