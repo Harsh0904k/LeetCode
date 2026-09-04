@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Harsh0904k/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Harsh0904k/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Harsh0904k/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Harsh0904k/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh0904k/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harsh0904k/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Harsh0904k/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Harsh0904k/LeetCode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh0904k/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh0904k/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Harsh0904k/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harsh0904k/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh0904k/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Harsh0904k/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harsh0904k/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harsh0904k/LeetCode/tree/master/0125-valid-palindrome) |
