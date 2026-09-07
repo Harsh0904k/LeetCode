@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harsh0904k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Harsh0904k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Harsh0904k/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh0904k/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Harsh0904k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harsh0904k/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harsh0904k/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Harsh0904k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harsh0904k/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
