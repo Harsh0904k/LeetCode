@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harsh0904k/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh0904k/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Harsh0904k/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Harsh0904k/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Harsh0904k/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Harsh0904k/LeetCode/tree/master/0228-summary-ranges) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Harsh0904k/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh0904k/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Harsh0904k/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Harsh0904k/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh0904k/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harsh0904k/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harsh0904k/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Harsh0904k/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Harsh0904k/LeetCode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Harsh0904k/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harsh0904k/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
